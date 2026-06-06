@@ -33,10 +33,14 @@ inamigos-awareness/
 
 🔍 Research Sources
 
-🌐 Official Website: https://inamigosfoundation.org.in
+🌐 Official Website: https://inamigosfoundation.org.in 
+
 📸 Instagram: https://www.instagram.com/inamigos/
+
 👥 Facebook: https://www.facebook.com/InAmigos/
+
 💼 LinkedIn: https://in.linkedin.com/company/inamigos-foundation
+
 #️⃣ Hashtags: #InAmigos #InAmigosFoundation #MakeADifference
 
 
