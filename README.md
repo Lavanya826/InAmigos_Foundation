@@ -4,7 +4,7 @@ NGO Awareness Webpage | InAmigos Foundation Internship
 
 
 🔗 Live Demo
-👉 View Live Website (replace # with your Netlify/GitHub Pages link)
+👉 View Live Website : https://lavanya826.github.io/InAmigos_Foundation/
 
 📌 About the Project
 A fully responsive static awareness webpage built for InAmigos Foundation — a Section 8 registered NGO based in Bilaspur, Chhattisgarh, working across 28 states of India.
